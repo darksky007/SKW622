@@ -19,7 +19,7 @@
     "dotenv": "^8.2.0",
     "electron-wix-msi": "^2.1.1",
     "fix-path": "^2.1.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "os-vue": "^1.1.1",
     "request": "^2.88.0",
     "sass-loader": "^8.0.0",
